@@ -26,7 +26,3 @@ class Board
     board
   end
 end
-
-board = Board.new
-
-board.print_board
